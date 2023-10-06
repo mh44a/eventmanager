@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace EventManager.Event
 {
-    public interface EventListener
-    {
-      // TODO: Don't write anything in this class.
-    }
+    // TODO: Don't write anything in this class.
+    public interface EventListener { }
 }
